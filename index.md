@@ -3,13 +3,12 @@ layout: homepage
 ---
 
 I'm a research associate at the Federal Reserve Bank of St. Louis. I was a undgraduate student in economics and mathematics at New York University. 
-
+<br>
+<br>
 **Working Papers**
 - **A Local-Spillover Decomposition of the Causal Effect of U.S. Defense Spending Shocks**
   <br>
-  with Tim Conley, Bill Dupor, Jingchao Li, and Peter McCrory 
-  <br>
-  [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-014.pdf) 
+  with Tim Conley, Bill Dupor, Jingchao Li, and Peter McCrory [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-014.pdf) 
 
 **Blog Posts**
 - **Corporate Bond Spreads and the Pandemic** 
