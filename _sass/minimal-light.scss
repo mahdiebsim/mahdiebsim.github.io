@@ -80,7 +80,7 @@ papertitle {
       width: 100%;
     }
 
-    .image.avatar {
+    /*.image.avatar {
       border-radius: 100%;
     }
 
@@ -97,8 +97,12 @@ papertitle {
     #header .image.avatar {
       margin: 0 0 1em 0;
       width: 8.00em;
-    }
-
+    }*/
+    
+    .image.avatar {
+      height: 75%;
+      width: 75%;
+      }
 h1, h3, h4, h5, h6 {
   font-weight: 600;
   color:#000000;
