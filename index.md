@@ -1,123 +1,23 @@
 ---
-layout: default
+layout: homepage
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I'm a research associate at the Federal Reserve Bank of St. Louis. I was a undgraduate student in economics and mathematics at New York University. 
 
-[Link to another page](./another-page.html).
+**Working Papers**
+- **A Local-Spillover Decomposition of the Causal Effect of U.S. Defense Spending Shocks**
+  <br>
+  with Tim Conley, Bill Dupor, Jingchao Li, and Peter McCrory 
+  <br>
+  [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-014.pdf) 
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+**Blog Posts**
+- **Corporate Bond Spreads and the Pandemic** 
+  with Miguel Faria-e-Caster and Julian Kozlowski
+  Part [I](https://www.stlouisfed.org/on-the-economy/2020/april/effects-covid-19-monetary-policy-response-corporate-bond-market), [II](https://www.stlouisfed.org/on-the-economy/2020/april/corporate-bond-spreads-pandemic-heterogeneity-sectors), [III](https://www.stlouisfed.org/on-the-economy/2020/may/corporate-bond-spreads-pandemic-variance-sectors-firms), [IV](https://www.stlouisfed.org/on-the-economy/2020/june/corporate-bond-spreads-pandemic-liquidity-buffers), [Data](https://research.stlouisfed.org/resources/covid-19/preliminary/daily-data-corporate-bond-spreads-pandemic)
+- **How Many Employees Are Prepared to Work from Home?** with Charles Gascon
+  [link](https://www.stlouisfed.org/on-the-economy/2020/march/employees-work-home)
+- **Are Students Borrowing Too Much? Or Too Little?** with Julian Kozlowski
+  [link](https://www.stlouisfed.org/on-the-economy/2019/september/students-borrowing-too-much-too-little)
+- **What Is Driving Student Debt in the Eighth District?** with Charles Gascon
+  [link](https://www.stlouisfed.org/publications/regional-economist/second-quarter-2019/driving-student-debt)
