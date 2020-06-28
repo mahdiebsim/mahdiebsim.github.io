@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-I'm a research associate at the Federal Reserve Bank of St. Louis. I was a undgraduate student in economics and mathematics at New York University. 
+I'm a research associate at the Federal Reserve Bank of St. Louis. I was an undergraduate student in economics and mathematics at New York University. 
 <br>
 <br>
 **Working Papers**
