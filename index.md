@@ -18,5 +18,5 @@ I'm a research associate at the Federal Reserve Bank of St. Louis. I was an unde
   [link](https://www.stlouisfed.org/on-the-economy/2020/march/employees-work-home)
 - **Are Students Borrowing Too Much? Or Too Little?** with Julian Kozlowski
   [link](https://www.stlouisfed.org/on-the-economy/2019/september/students-borrowing-too-much-too-little)
-- **What Is Driving Student Debt in the Eighth District?** with Charles Gascon
+- **What Is Driving Student Debt in the Eighth District?** with Julian Kozlowski
   [link](https://www.stlouisfed.org/publications/regional-economist/second-quarter-2019/driving-student-debt)
