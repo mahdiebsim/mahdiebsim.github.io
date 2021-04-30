@@ -9,7 +9,7 @@ I'm a research associate at the Federal Reserve Bank of St. Louis. I was an unde
 - **A Local-Spillover Decomposition of the Causal Effect of U.S. Defense Spending Shocks**
   <br>
   with Tim Conley, Bill Dupor, Jingchao Li, and Peter McCrory [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-014.pdf) 
-- **Anatomy of Corporate Credit Spreads: The Great Recession vs. COVID-19**
+- **Corporate Borrowing, Investment, and Credit Policies during Large Crises**
   <br>
   with Miguel Faria-e-Castro and Julian Kozlowski [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf) 
 
