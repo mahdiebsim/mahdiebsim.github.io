@@ -2,14 +2,14 @@
 layout: homepage
 ---
 
-Economics PhD student at NYU. Former St. Louis Fed research assistant and undergraduate student at NYU. 
+Economics PhD student at NYU. Former St. Louis Fed research assistant. 
 <br>
 <br>
 **Working Papers**
 - **The Local-Spillover Decomposition of an Aggregate Causal Effect**
   <br>
   with Tim Conley, Bill Dupor, Jingchao Li, and Peter McCrory [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2021/2021-006.pdf) 
-- **Corporate Borrowing, Investment, and Credit Policies during Large Crises**
+- **Credit and Liquidity Policies during Large Crises**
   <br>
   with Miguel Faria-e-Castro and Julian Kozlowski [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf) 
 
