@@ -5,6 +5,9 @@ layout: homepage
 Economics PhD student at NYU. Former St. Louis Fed research assistant. 
 <br>
 <br>
+[CV](CV_2021.pdf)
+<br>
+<br>
 **Working Papers**
 - **The Local-Spillover Decomposition of an Aggregate Causal Effect**
   <br>
