@@ -3,11 +3,12 @@ layout: homepage
 ---
 
 Economics PhD student at NYU. Former St. Louis Fed research assistant. 
+<br>
 [CV](CV_2021.pdf)
 <br>
 <br>
 **Working Papers**
-**Credit and Liquidity Policies during Large Crises**
+- **Credit and Liquidity Policies during Large Crises**
   <br>
   with Miguel Faria-e-Castro and Julian Kozlowski [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf)
 - **The Local-Spillover Decomposition of an Aggregate Causal Effect**
