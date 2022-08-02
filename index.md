@@ -14,6 +14,9 @@ Economics PhD student at NYU. Former St. Louis Fed research assistant.
 - **The Local-Spillover Decomposition of an Aggregate Causal Effect**
   <br>
   with Tim Conley, Bill Dupor, Jingchao Li, and Peter McCrory [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2021/2021-006.pdf) 
+- **The Sine Aggregatio Approach to Applied Macro**
+  <br>
+  with Tim Conley and Bill Dupor [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-014.pdf) 
 
 **Blog Posts**
 - **Corporate Bond Spreads and the Pandemic** 
